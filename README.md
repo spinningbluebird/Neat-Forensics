@@ -5,6 +5,7 @@ don't look yet she's naked D:
 Y'all Like Tricks?
 
 VOLATILITY FORENSICS
+
 Dumping Passwords with Volatility
 ```
 ./vol.py -f file.dmp windows.hashdump.Hashdump #Grab common windows hashes (SAM+SYSTEM)
