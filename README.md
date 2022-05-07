@@ -32,6 +32,7 @@ volatility --profile=PROFILE consoles -f file.dmp #command history by scanning f
 
 
 BULK_EXTRACTOR FORENSICS
+
 Finding TOR Activity
 ```
 bulk_extractor -o output example.vmem
